@@ -17,7 +17,9 @@ VideoDesGApps je desktopová aplikace v jazyce Java, která bude sloužit ke spr
 = Vývojový tým =
 
 == Vedoucí ==
-  * <zvoleny vedouci>
+  * Erik Hasprunar 396122
 
 == Vývojáři ==
-  * <seznam vyvojaru>
+  * Ales Nevrela, 208069
+  * Michal Bajer 325418
+  * Jakub Lipcak, 395921
