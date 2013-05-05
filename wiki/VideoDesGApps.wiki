@@ -12,7 +12,8 @@ VideoDesGApps je desktopová aplikace v jazyce Java, která bude sloužit ke spr
   * import dat z tabulky ve formátu ODF (bude upřesněn později)
 
 = Novinky =
-16. 4. 2013 - založen projekt na [http://code.google.com Google Code]
+  * 5. 5. 2013 - popis komponenty pro obsluhu Google Drive ([http://code.google.com/p/videodesgapps/wiki/GoogleDrive zde])
+  * 16. 4. 2013 - založen projekt na [http://code.google.com Google Code]
 
 = Vývojový tým =
 
