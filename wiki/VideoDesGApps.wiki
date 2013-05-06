@@ -13,7 +13,7 @@ VideoDesGApps je desktopová aplikace v jazyce Java, která bude sloužit ke spr
 
 = Novinky =
   * 6. 5. 2013 - popis triedy pre DOM Manager pre obsluhu práce s tabulkou ([https://code.google.com/p/videodesgapps/wiki/DOMManager zde])
-  * 6. 5. 2013 - vytvorený ([https://code.google.com/p/videodesgapps/wiki/UseCaseDiagaram Use Case Diagram ])
+  * 6. 5. 2013 - vytvorený [https://code.google.com/p/videodesgapps/wiki/UseCaseDiagaram Use Case Diagram ]
   * 5. 5. 2013 - popis komponenty pro obsluhu Google Drive ([http://code.google.com/p/videodesgapps/wiki/GoogleDrive zde])
   * 16. 4. 2013 - založen projekt na [http://code.google.com Google Code]
 
