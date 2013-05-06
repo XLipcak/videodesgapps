@@ -3,9 +3,9 @@
 
 Pro manipulaci s ODF budeme využívat ODFDOM Toolkit API (součást Apache ODF Toolkit Project). Knihovna ODFDOM (odfdom.jar) umožňuje vytváření, přístup a manipulaci s ODF soubory bez nutnosti detailní znalosti ODF specifikace.  
 
-= OpenDocument Format (ODF)= 
+= Open Document Format (ODF)= 
 
-Standart ODF byl vyvinut sdružením OASIS, je to otevřený souborový formát (založený na XML) pro vytváření a výměnu dokumentů vytvořených kancelářskými aplikacemi. Formát ODF zahrnuje textové dokumenty, prezentace, grafy, tabulky i databáze. Každý ODF soubor je ve skutečnosti balíček několika XML souborů, které obsahují všechny informace o vzhledu a obsahu dokumentu. V našem projektu budeme využívat soubory typu OpenDocument Spreadsheet (ODS). 
+Standart ODF byl vyvinut sdružením OASIS, je to otevřený souborový formát (založený na XML) pro vytváření a výměnu dokumentů vytvořených kancelářskými aplikacemi. Formát ODF zahrnuje textové dokumenty, prezentace, grafy, tabulky i databáze. Každý ODF soubor je ve skutečnosti balíček několika XML souborů, které obsahují všechny informace o vzhledu a obsahu dokumentu. V našem projektu budeme využívat soubory typu Open Document Spreadsheet (ODS). 
 
 
 = Struktura ODS souboru = 
